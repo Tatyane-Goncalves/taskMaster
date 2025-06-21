@@ -5,6 +5,8 @@ O **TaskMaster** é uma aplicação web de lista de tarefas (**Todo List**) dese
 
 O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complicações, com uma interface limpa, responsiva e fácil de usar.
 
+---
+
 ## 🔥 Funcionalidades
 - ✅ Adicionar tarefas
 - 🗑️ Remover tarefas
@@ -13,6 +15,7 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 - 📱 Responsivo (Mobile e Desktop)
 - 🎨 Design moderno e clean
 
+---
 
 ## 🖥️ Tech Stack
 - ⚛️ React
@@ -20,9 +23,13 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 - 🎨 SCSS Modules
 - 🖼️ HTML5 semântico
 
+---
+
 ## 🎨 Design e UI/UX
 - 🔗 Veja o briefing completo de design aqui (pode linkar o briefing que geramos antes, ou um documento externo/Figma)
 - Paleta de cores, tipografia e componentes baseados em um sistema de design consistente.
+
+---
 
 ## 📂 Estrutura de Pastas
 ```bash
@@ -37,6 +44,8 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 │   ├── index.js
 └── README.md
 ```
+
+---
 
 ## 🛠️ Instalação e Execução Local
 1️⃣ Clone o repositório
@@ -64,12 +73,18 @@ yarn start
 ```
 O app estará rodando em `http://localhost:5173/` 🚀
 
+---
+
 ## 🔗 Deploy
-👉 Disponível em: [Task Master]()
+👉 Disponível em: [Task Master](https://taskmaster-devtatyane.netlify.app/)
+
+---
 
 ## 📱 Responsividade
 - 100% adaptável para telas mobile, tablet e desktop.
 - Layout flexível utilizando CSS Flexbox/Grid.
+
+---
 
 ## 💡 Próximas melhorias (Backlog)
 - 🔗 Integração com LocalStorage para salvar tarefas
@@ -78,12 +93,18 @@ O app estará rodando em `http://localhost:5173/` 🚀
 - 🔔 Notificações ou lembretes (futuro)
 - 🚀 Integração com backend (Firebase ou Node)
 
+--- 
+
 ## 🤝 Contribuindo
 Fique à vontade para abrir issues, enviar pull requests ou sugerir melhorias!
+
+---
 
 ## 🧑‍💻 Desenvolvido por:
 - Taty — Full Stack Developer 💻
 - Projeto desenvolvido para treino em React e JavaScript.
+
+---
 
 ## ⚖️ Licença
 Este projeto está sob licença MIT. Consulte o arquivo [LICENSE](https://github.com/Tatyane-Goncalves/taskMaster/blob/main/LICENSE) para mais informações.
