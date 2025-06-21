@@ -40,8 +40,8 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 │   ├── components
 │   ├── pages
 │   ├── styles
-│   ├── App.js
-│   ├── index.js
+│   ├── App.jsx
+│   └── main.jsx
 └── README.md
 ```
 
