@@ -35,11 +35,14 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 ```bash
 /taskmaster
 ├── src
-│   ├── assets
 │   ├── components
-│   ├── pages
+│   │   ├── Header
+│   │   │     ├── Header.jsx
+│   │   │     └── Header.module.scss
 │   ├── styles
+│   │   └── _variables.scss
 │   ├── App.jsx
+│   ├── index.scss
 │   └── main.jsx
 ├── .gitignore
 ├── eslint.config.js

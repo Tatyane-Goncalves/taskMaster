@@ -1,6 +1,22 @@
+@use "./styles/variables" as v;
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: v.$neutralLight;
+}
+
+header, main, footer {
+  padding: 1.5rem;
+}
+
+@media (width >= 1024px) {
+  header, main, footer {
+    padding: 2.5rem;
+  }
 }
