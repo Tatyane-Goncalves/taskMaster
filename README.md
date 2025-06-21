@@ -34,7 +34,6 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 ## 📂 Estrutura de Pastas
 ```bash
 /taskmaster
-├── public
 ├── src
 │   ├── assets
 │   ├── components
@@ -42,7 +41,14 @@ O objetivo é ajudar pessoas a gerenciarem suas tarefas do dia a dia sem complic
 │   ├── styles
 │   ├── App.jsx
 │   └── main.jsx
-└── README.md
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── LICENSE
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.cofing.js
 ```
 
 ---
